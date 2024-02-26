@@ -1,2 +1,2 @@
-# MrBuggy7-API-Testing
-MrBuggy7 API Testing with Postman
+## [MrBuggy7 API Testing (2022)](https://github.com/swkc95/MrBuggy7-API-Testing)
+Developed from MrBuggy7 Exploratory Testing, this project is centered around Postman and its Collections feature, focused on testing the API of [Mr Buggy (version 7)](http://mrbuggy.pl/mrbuggy7/) software. Alongside collections of API requests, the project includes mock-up issues with evidence, a TestRail-like Test Cases document, a simple Test Plan, and a final Test Report with basic metrics.
